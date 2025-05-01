@@ -65,7 +65,7 @@
   },
   "peerDependencies": {
     "react": "^16.13.0 || ^17.0.0 || ^18.0.0"
-  }
+  },
   "husky": {
     "hooks": {
       "pre-push": "npm run prepare && npm run lint"
